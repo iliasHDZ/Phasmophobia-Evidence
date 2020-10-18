@@ -1,0 +1,72 @@
+div.evi-list {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Piazzolla', serif;
+    font-size: 35px;
+    width: auto;
+    color: 3F3F3F;
+}
+
+div.evi-scroll {
+    width: 500px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.left-arrow {
+    width: 40px;
+    height: 52px;
+    background-image: url("arrow_left.png");
+    background-repeat: space;
+}
+
+div.right-arrow {
+    width: 40px;
+    height: 52px;
+    background-image: url("arrow_right.png");
+    background-repeat: space;
+}
+
+h5.evi-mid {
+    margin: 0 auto;
+    -webkit-touch-callout: none;
+     -webkit-user-select: none;
+      -khtml-user-select: none;
+        -moz-user-select: none;
+         -ms-user-select: none;
+             user-select: none;
+}
+
+h5.evi-title {
+    margin-bottom: 20px;
+    margin-top: 25px;
+    -webkit-touch-callout: none;
+     -webkit-user-select: none;
+      -khtml-user-select: none;
+        -moz-user-select: none;
+         -ms-user-select: none;
+             user-select: none;
+}
+
+h5.evi-ghost {
+    margin-bottom: 20px;
+    -webkit-touch-callout: none;
+     -webkit-user-select: none;
+      -khtml-user-select: none;
+        -moz-user-select: none;
+         -ms-user-select: none;
+             user-select: none;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    color: 3F3F3F;
+    text-align: center;
+    font-family: 'Piazzolla', serif;
+    font-size: 25px;
+}
